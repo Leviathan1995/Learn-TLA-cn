@@ -41,10 +41,19 @@ TLA+ Toolbox 是一个TLA+的IDE，无论你的偏好如何，使用IDE都是一
 
 ![](/assets/import1.png)
 
-转换之后你将看到一堆代码出现，这就是我们的PlusCal算法的TLA+翻译，也就是模型检查器实际检查的东西。说到这里，我们也来创建一个模型:[  
-](https://learntla.com/introduction/example/img/translated.png)![](/assets/import2.png)这个模型目前是空的，即使没有任何的配置，我们也可以在下一节直接使用它:
+转换之后你将看到一堆代码出现，这就是我们的PlusCal算法的TLA+翻译，也就是模型检查器实际检查的东西。说到这里，我们也来创建一个模型:[    
+](https://learntla.com/introduction/example/img/translated.png)![](/assets/import2.png)这个模型目前是空的，即使没有任何的配置，我们也可以在下一节直接使用它。
+
+### Assertions and Sets {#assertions-and-sets}
+
+Alice的账户
+
+Can Alice’s account go negative? Right now our spec allows that, which we don’t want. We can start by adding a basic assert check after the transaction. This is the same as asserts in any other language. In TLA+, though, it’s \(mostly\) used for debugging. That’s because TLA+ has vastly more powerful tools for checking contracts and properties. But let’s start small.
+
+Here’s what our code looks like with the assert:
+
+  
+
 
 t’s okay for the model to be empty right now; even without any configuration we’ll be able to use it in the next section.
-
-
 
