@@ -35,7 +35,9 @@ end algorithm *)
 
 ### TLA+ Toolbox {#tla-toolbox}
 
-TLA+ Toolbox 是一个TLA+的IDE，无论你的偏好如何，使用IDE都是一个非常正确的选择。![](/assets/import.png)
+TLA+ Toolbox 是一个TLA+的IDE，无论你的偏好如何，使用IDE都是一个非常正确的选择。
+
+![](/assets/import.png)
 
 让我们来打开IDE，添加第一个项目，关于specification有两部分: modules和models。modules包括我们的代码，models测试它们。我们首先新建一个新的specification，然后将它转换为TLA+ \(Mac上直接使用`⌘T`\)
 
