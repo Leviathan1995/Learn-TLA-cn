@@ -1,9 +1,8 @@
 # Summary
 
-## Learn-TLA+
+* \[Introduction\]\(introduction/introduction.md\)
+  * \[about-this-guide\]\(introduction/about-this-guide.md\)
+  * \[example\]\(introduction/example.md\)
 
-* [介绍](introduce/introducetion.md)
-    * [关于教程](introduce/about-this-guide.md)
 
-## PlusCal
 
