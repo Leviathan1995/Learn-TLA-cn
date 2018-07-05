@@ -1,8 +1,9 @@
-# TLA+教程中文翻译
+# TLA+教程中文翻译(待完成)
 
 * 作者: [Hillel](https://hillelwayne.com/about/)
-* 译者: [leviathan](https://github.com/Leviathan1995)
-* Gitbook地址: [gitbook](https://translate.gitbook.io/learn-tla-cn/)
+* 译者: [Leviathan](https://github.com/Leviathan1995)
+* Gitbook地址: [Gitbook](https://legacy.gitbook.com/book/leviathan1995/learn-tla-cn/details) (需要科学上网)
+* 阅读方式: [Gitbook在线阅读](https://leviathan1995.gitbooks.io/learn-tla-cn/content/)或者直接下载PDF版本
 
 ## 写在前面
 
