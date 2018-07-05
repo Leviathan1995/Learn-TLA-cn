@@ -35,14 +35,19 @@ end algorithm *)
 
 ### TLA+ Toolbox {#tla-toolbox}
 
-TLA+ Toolbox 是一个TLA+的IDE，无论你的偏好如何，使用IDE都是一个非常正确的选择。![](/assets/import.png)
+TLA+ Toolbox 是一个TLA+的IDE，无论你的偏好如何，使用IDE都是一个非常正确的选择。
+
+![](/assets/import.png)
 
 让我们来打开IDE，添加第一个项目，关于specification有两部分: modules和models。modules包括我们的代码，models测试它们。我们首先新建一个新的specification，然后将它转换为TLA+ \(Mac上直接使用`⌘T`\)
 
 ![](/assets/import1.png)
 
-转换之后你将看到一堆代码出现，这就是我们的PlusCal算法的TLA+翻译，也就是模型检查器实际检查的东西。说到这里，我们也来创建一个模型:[          
-](https://learntla.com/introduction/example/img/translated.png)![](/assets/import2.png)这个模型目前是空的，即使没有任何的配置，我们也可以在下一节直接使用它。
+转换之后你将看到一堆代码出现，这就是我们的PlusCal算法的TLA+翻译，也就是模型检查器实际检查的东西。说到这里，我们也来创建一个模型:
+
+![](/assets/import2.png)
+
+这个模型目前是空的，即使没有任何的配置，我们也可以在下一节直接使用它。
 
 ### Assertions and Sets {#assertions-and-sets}
 
