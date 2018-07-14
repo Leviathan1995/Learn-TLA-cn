@@ -5,7 +5,7 @@
   * [关于教程](about-this-guide.md)
   * [例子](example.md)
 * [PlusCal](pluscal.md)
-  * [一个简单的例子](a_simple_specification.md)
+  * [一个简单的例子](a_simple_spec.md)
   * 使用Toolbox
   * 行为(BEHAVIORS)
 * [TLA+](tla+.md)
