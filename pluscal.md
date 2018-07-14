@@ -1,0 +1,3 @@
+# PlusCal
+
+PlusCal是一个与TLA+的协作的工具:它为specification添加了一个伪代码样接口，使程序员更容易理解。虽然并不是所有的specification都可以用PlusCal来编写，但也有相当一部分可以，这是建模的一个很好的切入点。我们将在本教程中编写的所有specification都以PlusCal为核心。
