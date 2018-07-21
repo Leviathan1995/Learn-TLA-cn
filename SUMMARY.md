@@ -6,8 +6,8 @@
   * [例子](example.md)
 * [PlusCal](pluscal.md)
   * [一个简单的例子](a_simple_spec.md)
-  * 使用Toolbox
-  * 行为(BEHAVIORS)
+  * [使用Toolbox](using_the_toolbox.md)
+  * [行为(BEHAVIORS)](behaviors.md)
 * [TLA+](tla+.md)
   * [运算符](operators.md)
   * [表达式](expressions.md)
